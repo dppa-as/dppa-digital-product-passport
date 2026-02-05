@@ -1,5 +1,7 @@
 # Digital Product Passport for Construction Products
 
+*🇬🇧 English | [🇳🇴 Norsk](../../docs-nb/akademi/dpp-byggevarer.md)*
+
 > EU Construction Products Regulation — GWP declarations required from January 2026, DPP infrastructure expected from 2027
 
 🌐 [dppa.no/dpp-construction](https://dppa.no/dpp-construction/)

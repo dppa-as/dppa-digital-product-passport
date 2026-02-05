@@ -1,5 +1,7 @@
 # Digital Product Passport for Textiles
 
+*🇬🇧 English | [🇳🇴 Norsk](../../docs-nb/akademi/dpp-tekstil.md)*
+
 > EU ESPR — Textile DPP requirements expected mandatory from approximately 2027–2028
 
 🌐 [dppa.no/dpp-textile](https://dppa.no/dpp-textile/)

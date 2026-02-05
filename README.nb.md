@@ -35,7 +35,7 @@ Et digitalt produktpass (Digital Product Passport, DPP) er en strukturert digita
 
 ## Hva DPPA gjør
 
-DPPA gjør det mulig for produsenter, importører, detaljister og merkevarer å:
+DPPA gjør det mulig for produsenter, importører, forhandlere og merkevareeiere å:
 
 - **Opprette og publisere digitale produktpass** som oppfyller EU- og EØS-regelverk
 - **Generere QR- og NFC-koder** med innebygde produktdata for offline og online tilgang
@@ -58,7 +58,7 @@ DPPA er bygget på **MACH-arkitektur** (Modulær, API-først, Skynativ, Hodeløs
 
 - **EU-basert datalagring** — Full GDPR-etterlevelse og EU-datasuverenitet
 - **Sikkerhet på bedriftsnivå** — Azure Front Door, Web Application Firewall (WAF), kryptert lagring, nulltillitsmodell
-- **Uforanderlig versjonering** — Hver produktpublisering lagres med full sporbarhet
+- **Sporbar versjonering** — Hver produktpublisering lagres med full sporbarhet
 - **Skalerbar infrastruktur** — Designet for å håndtere millioner av produktpass
 - **Betal-etter-bruk-prising** — Bruksbasert, ingen lisensavgifter, ingen leverandørlåsing
 
@@ -68,7 +68,7 @@ DPPA er bygget på **MACH-arkitektur** (Modulær, API-først, Skynativ, Hodeløs
 - **PIM/ERP-integrasjon** — Koble til eksisterende produktinformasjonssystemer
 - **Automatisk QR/NFC-kodegenerering** — Unike digitale IDer for hvert produkt
 - **Offentlig produktoppslag** — Rask, sikker, leseoptimalisert nettjeneste for forbrukere og partnere
-- **Uforanderlig versjonering og produkthistorikk** — Komplett revisjonsklarsporing
+- **Sporbar versjonering og produkthistorikk** — Komplett revisjonsklar sporbarhet
 - **JSON-eksport** — Full dataportabilitet for arkivering, integrasjon eller migrering
 - **Regulatorisk samsvar** — Innebygget støtte for DPP, ESPR, batteriforordningen og CPR
 
@@ -76,14 +76,14 @@ DPPA er bygget på **MACH-arkitektur** (Modulær, API-først, Skynativ, Hodeløs
 
 | Rolle | Hvordan DPPA hjelper |
 |-------|---------------------|
-| **Produsenter og merkevarer** | Oppfyll EUs DPP-krav, generer QR/NFC-koder, publiser produktpass i stor skala |
+| **Produsenter og merkevareeiere** | Oppfyll EUs DPP-krav, generer QR/NFC-koder, publiser produktpass i stor skala |
 | **Complianceansvarlige** | Sentralisert versjonert data, revisjonsspor, regulatorisk samsvar på tvers av EU og EØS |
-| **Detaljister og importører** | Verifiser leverandørers DPP-samsvar, vertsskap eller lenking til produktpass, muliggjør forbrukertilgang |
+| **Forhandlere og importører** | Verifiser leverandørers DPP-samsvar, vertsskap eller lenking til produktpass, muliggjør forbrukertilgang |
 | **Utviklere og IT-team** | API-først MACH-arkitektur, PIM-integrasjon, JSON-eksport, modulær og utvidbar |
 
 ## Regulatorisk ekspertise og standardisering
 
-DPPA bare etterlever ikke DPP-regelverk — vi er med på å forme det. Teamet vårt er direkte involvert i standardiseringsprosessen på både norsk og europeisk nivå, noe som gir oss tidlig innsikt i kommende krav og muligheten til å påvirke hvordan de utformes.
+DPPA etterlever ikke bare DPP-regelverk — vi er med på å forme det. Teamet vårt er direkte involvert i standardiseringsprosessen på både norsk og europeisk nivå, noe som gir oss tidlig innsikt i kommende krav og muligheten til å påvirke hvordan de utformes.
 
 ### Standardiseringsorganer
 
@@ -125,25 +125,25 @@ DPPA har dyp arbeidskunnskap om hele den regulatoriske DPP-stakken:
 Utforsk detaljert dokumentasjon i mappen [`docs-nb/`](docs-nb/):
 
 ### Plattform og selskap
-- [Funksjonsoversikt](docs-nb/features.md)
-- [Om DPPA](docs-nb/about.md)
+- [Funksjonsoversikt](docs-nb/funksjoner.md)
+- [Om DPPA](docs-nb/om-oss.md)
 
 ### For din rolle
-- [For produsenter og merkevarer](docs-nb/for-manufacturers.md)
-- [For complianceansvarlige](docs-nb/for-compliance.md)
-- [For detaljister og importører](docs-nb/for-retailers.md)
-- [For utviklere og IT-team](docs-nb/for-developers.md)
+- [For produsenter og merkevareeiere](docs-nb/for-produsenter.md)
+- [For complianceansvarlige](docs-nb/for-etterlevelse.md)
+- [For forhandlere og importører](docs-nb/for-forhandlere.md)
+- [For utviklere og IT-team](docs-nb/for-utviklere.md)
 
 ### Akademi — Bransjeguider
-- [DPP for batterier](docs-nb/academy/dpp-batteries.md)
-- [DPP for tekstiler](docs-nb/academy/dpp-textile.md)
-- [DPP for byggevarer](docs-nb/academy/dpp-construction.md)
+- [DPP for batterier](docs-nb/akademi/dpp-batterier.md)
+- [DPP for tekstiler](docs-nb/akademi/dpp-tekstil.md)
+- [DPP for byggevarer](docs-nb/akademi/dpp-byggevarer.md)
 
 ### Akademi — Innsikt og strategi
-- [Hva DPP betyr for din virksomhet i 2026–2028](docs-nb/academy/dpp-2026-to-2028.md)
-- [En praktisk guide til DPP-implementering før 2027](docs-nb/academy/practical-guide-before-2027.md)
-- [8 forretningsfordeler utover regulatorisk samsvar](docs-nb/academy/8-business-benefits.md)
-- [Fra GDPR til DPP: Lærdommer om samsvar](docs-nb/academy/gdpr-to-dpp.md)
+- [Hva DPP betyr for din virksomhet i 2026–2028](docs-nb/akademi/dpp-2026-til-2028.md)
+- [En praktisk guide til DPP-implementering før 2027](docs-nb/akademi/praktisk-guide-for-2027.md)
+- [8 forretningsfordeler utover regulatorisk samsvar](docs-nb/akademi/8-forretningsfordeler.md)
+- [Fra GDPR til DPP: Lærdommer om samsvar](docs-nb/akademi/gdpr-til-dpp.md)
 
 ## Bygget for bærekraft
 
@@ -165,7 +165,7 @@ ESPR fastsetter DPP-krav for et bredt spekter av produktkategorier. Den første 
 
 ### Hvem er ansvarlig for å opprette et digitalt produktpass?
 
-Under ESPR er **markedsaktøren** som plasserer et produkt på EU/EØS-markedet ansvarlig for å sikre at et gyldig DPP eksisterer. Dette er typisk produsenten for EU-produserte varer, eller importøren for varer produsert utenfor EU. Distributører og detaljister har også forpliktelser til å verifisere at produkter de selger har gyldige pass.
+Under ESPR er **markedsaktøren** som plasserer et produkt på EU/EØS-markedet ansvarlig for å sikre at et gyldig DPP eksisterer. Dette er typisk produsenten for EU-produserte varer, eller importøren for varer produsert utenfor EU. Distributører og forhandlere har også forpliktelser til å verifisere at produkter de selger har gyldige pass.
 
 ### Hvilke data må et digitalt produktpass inneholde?
 

@@ -1,5 +1,7 @@
 # About DPPA
 
+*🇬🇧 English | [🇳🇴 Norsk](../docs-nb/om-oss.md)*
+
 > Get to Know Us and Our Mission
 
 🌐 [dppa.no/about](https://dppa.no/about/)

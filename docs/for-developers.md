@@ -1,5 +1,7 @@
 # Digital Product Passport for Developers & IT Teams
 
+*🇬🇧 English | [🇳🇴 Norsk](../docs-nb/for-utviklere.md)*
+
 > Powering Digital Product Passports with Scalable, Future-Ready Technology
 
 🌐 [dppa.no/for-developers](https://dppa.no/for-developers/)

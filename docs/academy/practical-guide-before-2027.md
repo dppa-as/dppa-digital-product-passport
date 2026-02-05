@@ -1,5 +1,7 @@
 # A Practical Guide to DPP Implementation: What to Do Before 2027
 
+*🇬🇧 English | [🇳🇴 Norsk](../../docs-nb/akademi/praktisk-guide-for-2027.md)*
+
 > From data collection to QR code scanning — a step-by-step implementation guide for batteries, textiles, and construction.
 
 🌐 [dppa.no/practical-guide-to-dpp-implementation-what-to-do-before-2027](https://dppa.no/practical-guide-to-dpp-implementation-what-to-do-before-2027/)

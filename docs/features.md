@@ -1,5 +1,7 @@
 # Features Overview — DPPA Digital Product Passport Platform
 
+*🇬🇧 English | [🇳🇴 Norsk](../docs-nb/funksjoner.md)*
+
 > Built for Today. Ready for Tomorrow.
 
 DPPA helps you issue, manage, and publish Digital Product Passports — quickly, securely, and at scale. From easy data import to public passport hosting, our solution delivers all the essentials to get compliant from day one, with the flexibility to evolve alongside your business and regulatory needs.

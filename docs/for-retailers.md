@@ -1,5 +1,7 @@
 # Digital Product Passport for Retailers, Distributors & Importers
 
+*🇬🇧 English | [🇳🇴 Norsk](../docs-nb/for-forhandlere.md)*
+
 > Stay Ahead of Product Passport Requirements — From Supplier to Shelf, Be Ready for ESPR and Beyond
 
 🌐 [dppa.no/for-retailers](https://dppa.no/for-retailers/)

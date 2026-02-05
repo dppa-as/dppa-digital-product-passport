@@ -1,5 +1,7 @@
 # Digital Product Passport for Compliance Professionals
 
+*🇬🇧 English | [🇳🇴 Norsk](../docs-nb/for-etterlevelse.md)*
+
 > DPP Compliance Made Clear, Manageable, and Reliable — Stay ahead of EU & EEA regulations confidently and efficiently
 
 🌐 [dppa.no/for-compliance](https://dppa.no/for-compliance/)
