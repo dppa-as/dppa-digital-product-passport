@@ -1,6 +1,6 @@
 # Digital Product Passport for Manufacturers & Brands
 
-*🇬🇧 English | [🇳🇴 Norsk](../docs-nb/for-produsenter.md) | [🇩🇪 Deutsch](../docs-de/fuer-hersteller.md)*
+*🇬🇧 English | [🇳🇴 Norsk](../docs-nb/for-produsenter.md) | [🇩🇪 Deutsch](../docs-de/fuer-hersteller.md) | [🇵🇱 Polski](../docs-pl/dla-producentow.md)*
 
 > DPP Compliance Made Simple — Get ready for EU & EEA regulations without disrupting your operations
 

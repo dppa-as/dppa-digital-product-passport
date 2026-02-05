@@ -1,6 +1,6 @@
 # Digital Product Passport for Batteries
 
-*🇬🇧 English | [🇳🇴 Norsk](../../docs-nb/akademi/dpp-batterier.md) | [🇩🇪 Deutsch](../../docs-de/akademie/dpp-batterien.md)*
+*🇬🇧 English | [🇳🇴 Norsk](../../docs-nb/akademi/dpp-batterier.md) | [🇩🇪 Deutsch](../../docs-de/akademie/dpp-batterien.md) | [🇵🇱 Polski](../../docs-pl/akademia/dpp-baterie.md)*
 
 > EU Battery Regulation (2023/1542) — Mandatory from February 18, 2027
 

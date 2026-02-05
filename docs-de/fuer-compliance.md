@@ -1,6 +1,6 @@
 # Digitaler Produktpass für Compliance-Verantwortliche
 
-*[🇬🇧 English](../docs/for-compliance.md) | [🇳🇴 Norsk](../docs-nb/for-etterlevelse.md) | 🇩🇪 Deutsch*
+*[🇬🇧 English](../docs/for-compliance.md) | [🇳🇴 Norsk](../docs-nb/for-etterlevelse.md) | 🇩🇪 Deutsch | [🇵🇱 Polski](../docs-pl/dla-compliance.md)*
 
 > DPP-Compliance klar, handhabbar und verlässlich — Souverän und effizient den EU- & EWR-Vorschriften voraus
 

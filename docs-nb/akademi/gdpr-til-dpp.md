@@ -1,6 +1,6 @@
 # Fra GDPR til DPP: Hva den forrige samsvarsdugnaden lærte oss
 
-*[🇬🇧 English](../../docs/academy/gdpr-to-dpp.md) | 🇳🇴 Norsk | [🇩🇪 Deutsch](../../docs-de/akademie/dsgvo-zu-dpp.md)*
+*[🇬🇧 English](../../docs/academy/gdpr-to-dpp.md) | 🇳🇴 Norsk | [🇩🇪 Deutsch](../../docs-de/akademie/dsgvo-zu-dpp.md) | [🇵🇱 Polski](../../docs-pl/akademia/rodo-do-dpp.md)*
 
 > Det digitale produktpasset er i ferd med å endre hvordan virksomheter håndterer produkter — og mønsteret ser bemerkelsesverdig kjent ut.
 

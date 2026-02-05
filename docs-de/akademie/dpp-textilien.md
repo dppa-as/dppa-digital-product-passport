@@ -1,6 +1,6 @@
 # Digitaler Produktpass für Textilien
 
-*[🇬🇧 English](../../docs/academy/dpp-textile.md) | [🇳🇴 Norsk](../../docs-nb/akademi/dpp-tekstil.md) | 🇩🇪 Deutsch*
+*[🇬🇧 English](../../docs/academy/dpp-textile.md) | [🇳🇴 Norsk](../../docs-nb/akademi/dpp-tekstil.md) | 🇩🇪 Deutsch | [🇵🇱 Polski](../../docs-pl/akademia/dpp-tekstylia.md)*
 
 > EU-ESPR — Textil-DPP voraussichtlich verpflichtend ab ca. 2027–2028
 

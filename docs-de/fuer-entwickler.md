@@ -1,6 +1,6 @@
 # Digitaler Produktpass für Entwickler & IT-Teams
 
-*[🇬🇧 English](../docs/for-developers.md) | [🇳🇴 Norsk](../docs-nb/for-utviklere.md) | 🇩🇪 Deutsch*
+*[🇬🇧 English](../docs/for-developers.md) | [🇳🇴 Norsk](../docs-nb/for-utviklere.md) | 🇩🇪 Deutsch | [🇵🇱 Polski](../docs-pl/dla-deweloperow.md)*
 
 > Digitale Produktpässe mit skalierbarer, zukunftssicherer Technologie
 

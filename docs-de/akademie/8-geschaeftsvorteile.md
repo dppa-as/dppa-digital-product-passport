@@ -1,6 +1,6 @@
 # Digitaler Produktpass: 8 Geschäftsvorteile jenseits der Pflichterfüllung
 
-*[🇬🇧 English](../../docs/academy/8-business-benefits.md) | [🇳🇴 Norsk](../../docs-nb/akademi/8-forretningsfordeler.md) | 🇩🇪 Deutsch*
+*[🇬🇧 English](../../docs/academy/8-business-benefits.md) | [🇳🇴 Norsk](../../docs-nb/akademi/8-forretningsfordeler.md) | 🇩🇪 Deutsch | [🇵🇱 Polski](../../docs-pl/akademia/8-korzysci-biznesowych.md)*
 
 > Beim DPP geht es nicht nur darum, ein Häkchen zu setzen — er ist Infrastruktur, die Ihr Geschäft transformieren kann.
 

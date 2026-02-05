@@ -1,6 +1,6 @@
 # DPPA — Plattform for digitale produktpass
 
-*[🇬🇧 English](README.md) | 🇳🇴 Norsk | [🇩🇪 Deutsch](README.de.md)*
+*[🇬🇧 English](README.md) | 🇳🇴 Norsk | [🇩🇪 Deutsch](README.de.md) | [🇵🇱 Polski](README.pl.md)*
 
 **DPPA AS** er en norsk SaaS-plattform for å opprette, administrere og utstede **digitale produktpass (DPP)** i samsvar med EU-regelverk, inkludert **Økodesignforordningen for bærekraftige produkter (ESPR)**, **EUs batteriforordning** og **Byggevareforordningen (CPR)**.
 

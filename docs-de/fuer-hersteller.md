@@ -1,6 +1,6 @@
 # Digitaler Produktpass für Hersteller & Markeninhaber
 
-*[🇬🇧 English](../docs/for-manufacturers.md) | [🇳🇴 Norsk](../docs-nb/for-produsenter.md) | 🇩🇪 Deutsch*
+*[🇬🇧 English](../docs/for-manufacturers.md) | [🇳🇴 Norsk](../docs-nb/for-produsenter.md) | 🇩🇪 Deutsch | [🇵🇱 Polski](../docs-pl/dla-producentow.md)*
 
 > DPP-Compliance einfach gemacht — Machen Sie sich bereit für EU- & EWR-Vorschriften, ohne Ihre Abläufe zu unterbrechen
 

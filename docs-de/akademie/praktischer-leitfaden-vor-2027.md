@@ -1,6 +1,6 @@
 # Praxisleitfaden zur DPP-Umsetzung: Was vor 2027 zu tun ist
 
-*[🇬🇧 English](../../docs/academy/practical-guide-before-2027.md) | [🇳🇴 Norsk](../../docs-nb/akademi/praktisk-guide-for-2027.md) | 🇩🇪 Deutsch*
+*[🇬🇧 English](../../docs/academy/practical-guide-before-2027.md) | [🇳🇴 Norsk](../../docs-nb/akademi/praktisk-guide-for-2027.md) | 🇩🇪 Deutsch | [🇵🇱 Polski](../../docs-pl/akademia/praktyczny-przewodnik-przed-2027.md)*
 
 > Von der Datenerhebung bis zum QR-Code-Scan — eine Schritt-für-Schritt-Anleitung für Batterien, Textilien und Bauprodukte.
 

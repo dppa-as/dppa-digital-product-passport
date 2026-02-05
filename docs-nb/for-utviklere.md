@@ -1,6 +1,6 @@
 # Digitalt produktpass for utviklere og IT-team
 
-*[🇬🇧 English](../docs/for-developers.md) | 🇳🇴 Norsk | [🇩🇪 Deutsch](../docs-de/fuer-entwickler.md)*
+*[🇬🇧 English](../docs/for-developers.md) | 🇳🇴 Norsk | [🇩🇪 Deutsch](../docs-de/fuer-entwickler.md) | [🇵🇱 Polski](../docs-pl/dla-deweloperow.md)*
 
 > Drivkraft bak digitale produktpass med skalerbar, fremtidsklar teknologi
 

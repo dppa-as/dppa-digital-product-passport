@@ -1,6 +1,6 @@
 # Funktionsübersicht — DPPA Plattform für den Digitalen Produktpass
 
-*[🇬🇧 English](../docs/features.md) | [🇳🇴 Norsk](../docs-nb/funksjoner.md) | 🇩🇪 Deutsch*
+*[🇬🇧 English](../docs/features.md) | [🇳🇴 Norsk](../docs-nb/funksjoner.md) | 🇩🇪 Deutsch | [🇵🇱 Polski](../docs-pl/funkcje.md)*
 
 > Für heute gebaut. Bereit für morgen.
 

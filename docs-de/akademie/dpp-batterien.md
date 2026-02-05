@@ -1,6 +1,6 @@
 # Digitaler Produktpass für Batterien
 
-*[🇬🇧 English](../../docs/academy/dpp-batteries.md) | [🇳🇴 Norsk](../../docs-nb/akademi/dpp-batterier.md) | 🇩🇪 Deutsch*
+*[🇬🇧 English](../../docs/academy/dpp-batteries.md) | [🇳🇴 Norsk](../../docs-nb/akademi/dpp-batterier.md) | 🇩🇪 Deutsch | [🇵🇱 Polski](../../docs-pl/akademia/dpp-baterie.md)*
 
 > EU-Batterieverordnung (2023/1542) — Verpflichtend ab 18. Februar 2027
 

@@ -1,6 +1,6 @@
 # Digitalt produktpass for tekstiler
 
-*[🇬🇧 English](../../docs/academy/dpp-textile.md) | 🇳🇴 Norsk | [🇩🇪 Deutsch](../../docs-de/akademie/dpp-textilien.md)*
+*[🇬🇧 English](../../docs/academy/dpp-textile.md) | 🇳🇴 Norsk | [🇩🇪 Deutsch](../../docs-de/akademie/dpp-textilien.md) | [🇵🇱 Polski](../../docs-pl/akademia/dpp-tekstylia.md)*
 
 > EU ESPR — Krav til tekstil-DPP forventes obligatorisk fra ca. 2027–2028
 
