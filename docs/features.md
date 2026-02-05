@@ -1,6 +1,6 @@
 # Features Overview — DPPA Digital Product Passport Platform
 
-*🇬🇧 English | [🇳🇴 Norsk](../docs-nb/funksjoner.md)*
+*🇬🇧 English | [🇳🇴 Norsk](../docs-nb/funksjoner.md) | [🇩🇪 Deutsch](../docs-de/funktionen.md)*
 
 > Built for Today. Ready for Tomorrow.
 

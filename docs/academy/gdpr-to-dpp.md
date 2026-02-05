@@ -1,6 +1,6 @@
 # From GDPR to DPP: What the Last Compliance Scramble Taught Us
 
-*🇬🇧 English | [🇳🇴 Norsk](../../docs-nb/akademi/gdpr-til-dpp.md)*
+*🇬🇧 English | [🇳🇴 Norsk](../../docs-nb/akademi/gdpr-til-dpp.md) | [🇩🇪 Deutsch](../../docs-de/akademie/dsgvo-zu-dpp.md)*
 
 > The Digital Product Passport is about to change how businesses handle products — and the pattern looks remarkably familiar.
 

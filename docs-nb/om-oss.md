@@ -1,6 +1,6 @@
 # Om DPPA
 
-*[🇬🇧 English](../docs/about.md) | 🇳🇴 Norsk*
+*[🇬🇧 English](../docs/about.md) | 🇳🇴 Norsk | [🇩🇪 Deutsch](../docs-de/ueber-uns.md)*
 
 > Bli kjent med oss og vårt oppdrag
 

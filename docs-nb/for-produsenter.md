@@ -1,6 +1,6 @@
 # Digitalt produktpass for produsenter og merkevareeiere
 
-*[🇬🇧 English](../docs/for-manufacturers.md) | 🇳🇴 Norsk*
+*[🇬🇧 English](../docs/for-manufacturers.md) | 🇳🇴 Norsk | [🇩🇪 Deutsch](../docs-de/fuer-hersteller.md)*
 
 > DPP-samsvar gjort enkelt — Bli klar for EU- og EØS-regelverk uten å forstyrre driften
 

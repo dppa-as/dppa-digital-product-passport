@@ -1,6 +1,6 @@
 # Digitalt produktpass for forhandlere, distributører og importører
 
-*[🇬🇧 English](../docs/for-retailers.md) | 🇳🇴 Norsk*
+*[🇬🇧 English](../docs/for-retailers.md) | 🇳🇴 Norsk | [🇩🇪 Deutsch](../docs-de/fuer-haendler.md)*
 
 > Hold deg i forkant av produktpasskravene — Fra leverandør til hylle, vær klar for ESPR og mer
 

@@ -1,6 +1,6 @@
 # Digitalt produktpass for batterier
 
-*[🇬🇧 English](../../docs/academy/dpp-batteries.md) | 🇳🇴 Norsk*
+*[🇬🇧 English](../../docs/academy/dpp-batteries.md) | 🇳🇴 Norsk | [🇩🇪 Deutsch](../../docs-de/akademie/dpp-batterien.md)*
 
 > EUs batteriforordning (2023/1542) — Obligatorisk fra 18. februar 2027
 

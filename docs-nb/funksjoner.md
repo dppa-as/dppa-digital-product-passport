@@ -1,6 +1,6 @@
 # Funksjonsoversikt — DPPAs plattform for digitale produktpass
 
-*[🇬🇧 English](../docs/features.md) | 🇳🇴 Norsk*
+*[🇬🇧 English](../docs/features.md) | 🇳🇴 Norsk | [🇩🇪 Deutsch](../docs-de/funktionen.md)*
 
 > Bygget for i dag. Klar for i morgen.
 

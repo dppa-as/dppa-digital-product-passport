@@ -1,6 +1,6 @@
 # Digitalt produktpass: 8 forretningsfordeler utover regulatorisk samsvar
 
-*[🇬🇧 English](../../docs/academy/8-business-benefits.md) | 🇳🇴 Norsk*
+*[🇬🇧 English](../../docs/academy/8-business-benefits.md) | 🇳🇴 Norsk | [🇩🇪 Deutsch](../../docs-de/akademie/8-geschaeftsvorteile.md)*
 
 > DPP handler ikke bare om å krysse av en boks — det er infrastruktur som kan transformere virksomheten din.
 

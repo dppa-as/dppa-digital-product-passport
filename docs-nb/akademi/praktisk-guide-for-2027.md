@@ -1,6 +1,6 @@
 # En praktisk guide til DPP-implementering: Hva du bør gjøre før 2027
 
-*[🇬🇧 English](../../docs/academy/practical-guide-before-2027.md) | 🇳🇴 Norsk*
+*[🇬🇧 English](../../docs/academy/practical-guide-before-2027.md) | 🇳🇴 Norsk | [🇩🇪 Deutsch](../../docs-de/akademie/praktischer-leitfaden-vor-2027.md)*
 
 > Fra datainnsamling til QR-kodeskanning — en steg-for-steg implementeringsguide for batterier, tekstiler og byggevarer.
 

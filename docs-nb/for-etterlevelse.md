@@ -1,6 +1,6 @@
 # Digitalt produktpass for complianceansvarlige
 
-*[🇬🇧 English](../docs/for-compliance.md) | 🇳🇴 Norsk*
+*[🇬🇧 English](../docs/for-compliance.md) | 🇳🇴 Norsk | [🇩🇪 Deutsch](../docs-de/fuer-compliance.md)*
 
 > DPP-samsvar gjort klart, håndterbart og pålitelig — Hold deg i forkant av EU- og EØS-regelverk trygt og effektivt
 

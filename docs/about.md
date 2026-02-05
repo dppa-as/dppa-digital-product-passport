@@ -1,6 +1,6 @@
 # About DPPA
 
-*🇬🇧 English | [🇳🇴 Norsk](../docs-nb/om-oss.md)*
+*🇬🇧 English | [🇳🇴 Norsk](../docs-nb/om-oss.md) | [🇩🇪 Deutsch](../docs-de/ueber-uns.md)*
 
 > Get to Know Us and Our Mission
 

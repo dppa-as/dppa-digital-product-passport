@@ -1,6 +1,6 @@
 # Digitalt produktpass for byggevarer
 
-*[🇬🇧 English](../../docs/academy/dpp-construction.md) | 🇳🇴 Norsk*
+*[🇬🇧 English](../../docs/academy/dpp-construction.md) | 🇳🇴 Norsk | [🇩🇪 Deutsch](../../docs-de/akademie/dpp-bauprodukte.md)*
 
 > EUs byggevareforordning — GWP-deklarasjoner påkrevd fra januar 2026, DPP-infrastruktur forventet fra 2027
 
