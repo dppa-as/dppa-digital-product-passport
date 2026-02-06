@@ -1,6 +1,6 @@
 # Digital Product Passport for Retailers, Distributors & Importers
 
-*🇬🇧 English | [🇳🇴 Norsk](../docs-nb/for-forhandlere.md) | [🇩🇪 Deutsch](../docs-de/fuer-haendler.md) | [🇵🇱 Polski](../docs-pl/dla-sprzedawcow.md)*
+*🇬🇧 English | [🇳🇴 Norsk](../docs-nb/for-forhandlere.md) | [🇩🇪 Deutsch](../docs-de/fuer-haendler.md) | [🇵🇱 Polski](../docs-pl/dla-sprzedawcow.md) | [🇸🇰 Slovenčina](../docs-sk/pre-predajcov.md)*
 
 > Stay Ahead of Product Passport Requirements — From Supplier to Shelf, Be Ready for ESPR and Beyond
 

@@ -1,6 +1,6 @@
 # Digital Product Passport for Developers & IT Teams
 
-*🇬🇧 English | [🇳🇴 Norsk](../docs-nb/for-utviklere.md) | [🇩🇪 Deutsch](../docs-de/fuer-entwickler.md) | [🇵🇱 Polski](../docs-pl/dla-deweloperow.md)*
+*🇬🇧 English | [🇳🇴 Norsk](../docs-nb/for-utviklere.md) | [🇩🇪 Deutsch](../docs-de/fuer-entwickler.md) | [🇵🇱 Polski](../docs-pl/dla-deweloperow.md) | [🇸🇰 Slovenčina](../docs-sk/pre-vyvojarov.md)*
 
 > Powering Digital Product Passports with Scalable, Future-Ready Technology
 

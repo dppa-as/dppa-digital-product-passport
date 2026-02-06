@@ -1,6 +1,6 @@
 # DPPA — Digital Product Passport Platform
 
-*🇬🇧 English | [🇳🇴 Norsk](README.nb.md) | [🇩🇪 Deutsch](README.de.md) | [🇵🇱 Polski](README.pl.md)*
+*🇬🇧 English | [🇳🇴 Norsk](README.nb.md) | [🇩🇪 Deutsch](README.de.md) | [🇵🇱 Polski](README.pl.md) | [🇸🇰 Slovenčina](README.sk.md)*
 
 **DPPA AS** is a Norwegian SaaS platform for creating, managing, and issuing **Digital Product Passports (DPPs)** in compliance with EU regulations including the **Ecodesign for Sustainable Products Regulation (ESPR)**, the **EU Battery Regulation**, and the **Construction Products Regulation (CPR)**.
 

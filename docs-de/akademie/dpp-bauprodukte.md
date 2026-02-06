@@ -1,6 +1,6 @@
 # Digitaler Produktpass für Bauprodukte
 
-*[🇬🇧 English](../../docs/academy/dpp-construction.md) | [🇳🇴 Norsk](../../docs-nb/akademi/dpp-byggevarer.md) | 🇩🇪 Deutsch | [🇵🇱 Polski](../../docs-pl/akademia/dpp-budownictwo.md)*
+*[🇬🇧 English](../../docs/academy/dpp-construction.md) | [🇳🇴 Norsk](../../docs-nb/akademi/dpp-byggevarer.md) | 🇩🇪 Deutsch | [🇵🇱 Polski](../../docs-pl/akademia/dpp-budownictwo.md) | [🇸🇰 Slovenčina](../../docs-sk/akademia/dpp-stavebnictvo.md)*
 
 > EU-Bauproduktenverordnung — GWP-Erklärungen ab Januar 2026 erforderlich, DPP-Infrastruktur ab 2027 erwartet
 

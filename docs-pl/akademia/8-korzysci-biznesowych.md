@@ -1,6 +1,6 @@
 # Cyfrowy paszport produktu: 8 korzyści biznesowych wykraczających poza zgodność regulacyjną
 
-*[🇬🇧 English](../../docs/academy/8-business-benefits.md) | [🇳🇴 Norsk](../../docs-nb/akademi/8-forretningsfordeler.md) | [🇩🇪 Deutsch](../../docs-de/akademie/8-geschaeftsvorteile.md) | 🇵🇱 Polski*
+*[🇬🇧 English](../../docs/academy/8-business-benefits.md) | [🇳🇴 Norsk](../../docs-nb/akademi/8-forretningsfordeler.md) | [🇩🇪 Deutsch](../../docs-de/akademie/8-geschaeftsvorteile.md) | 🇵🇱 Polski | [🇸🇰 Slovenčina](../../docs-sk/akademia/8-obchodnych-vyhod.md)*
 
 > DPP to nie tylko odhaczenie wymogu — to infrastruktura, która może przekształcić Twoją firmę.
 

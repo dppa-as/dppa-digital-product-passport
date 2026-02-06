@@ -1,6 +1,6 @@
 # Cyfrowy paszport produktu dla sprzedawców, dystrybutorów i importerów
 
-*[🇬🇧 English](../docs/for-retailers.md) | [🇳🇴 Norsk](../docs-nb/for-forhandlere.md) | [🇩🇪 Deutsch](../docs-de/fuer-haendler.md) | 🇵🇱 Polski*
+*[🇬🇧 English](../docs/for-retailers.md) | [🇳🇴 Norsk](../docs-nb/for-forhandlere.md) | [🇩🇪 Deutsch](../docs-de/fuer-haendler.md) | 🇵🇱 Polski | [🇸🇰 Slovenčina](../docs-sk/pre-predajcov.md)*
 
 > Bądź o krok przed wymogami paszportu produktu — Od dostawcy po półkę: gotowość na ESPR i nie tylko
 

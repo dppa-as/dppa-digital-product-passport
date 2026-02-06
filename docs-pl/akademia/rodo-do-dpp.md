@@ -1,6 +1,6 @@
 # Od RODO do DPP: Czego nauczył nas ostatni sprint zgodności
 
-*[🇬🇧 English](../../docs/academy/gdpr-to-dpp.md) | [🇳🇴 Norsk](../../docs-nb/akademi/gdpr-til-dpp.md) | [🇩🇪 Deutsch](../../docs-de/akademie/dsgvo-zu-dpp.md) | 🇵🇱 Polski*
+*[🇬🇧 English](../../docs/academy/gdpr-to-dpp.md) | [🇳🇴 Norsk](../../docs-nb/akademi/gdpr-til-dpp.md) | [🇩🇪 Deutsch](../../docs-de/akademie/dsgvo-zu-dpp.md) | 🇵🇱 Polski | [🇸🇰 Slovenčina](../../docs-sk/akademia/gdpr-k-dpp.md)*
 
 > Cyfrowy paszport produktu zmieni sposób, w jaki firmy zarządzają produktami — a wzorzec wygląda zdumiewająco znajomo.
 

@@ -1,6 +1,6 @@
 # Cyfrowy paszport produktu dla producentów i właścicieli marek
 
-*[🇬🇧 English](../docs/for-manufacturers.md) | [🇳🇴 Norsk](../docs-nb/for-produsenter.md) | [🇩🇪 Deutsch](../docs-de/fuer-hersteller.md) | 🇵🇱 Polski*
+*[🇬🇧 English](../docs/for-manufacturers.md) | [🇳🇴 Norsk](../docs-nb/for-produsenter.md) | [🇩🇪 Deutsch](../docs-de/fuer-hersteller.md) | 🇵🇱 Polski | [🇸🇰 Slovenčina](../docs-sk/pre-vyrobcov.md)*
 
 > Zgodność z DPP bez komplikacji — Przygotuj się na przepisy UE i EOG bez zakłócania działalności operacyjnej
 

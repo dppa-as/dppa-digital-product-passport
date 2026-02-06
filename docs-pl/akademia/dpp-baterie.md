@@ -1,6 +1,6 @@
 # Cyfrowy paszport produktu dla baterii
 
-*[🇬🇧 English](../../docs/academy/dpp-batteries.md) | [🇳🇴 Norsk](../../docs-nb/akademi/dpp-batterier.md) | [🇩🇪 Deutsch](../../docs-de/akademie/dpp-batterien.md) | 🇵🇱 Polski*
+*[🇬🇧 English](../../docs/academy/dpp-batteries.md) | [🇳🇴 Norsk](../../docs-nb/akademi/dpp-batterier.md) | [🇩🇪 Deutsch](../../docs-de/akademie/dpp-batterien.md) | 🇵🇱 Polski | [🇸🇰 Slovenčina](../../docs-sk/akademia/dpp-baterie.md)*
 
 > Rozporządzenie UE w sprawie baterii (2023/1542) — Obowiązkowe od 18 lutego 2027
 

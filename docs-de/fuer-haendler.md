@@ -1,6 +1,6 @@
 # Digitaler Produktpass für Händler, Distributoren & Importeure
 
-*[🇬🇧 English](../docs/for-retailers.md) | [🇳🇴 Norsk](../docs-nb/for-forhandlere.md) | 🇩🇪 Deutsch | [🇵🇱 Polski](../docs-pl/dla-sprzedawcow.md)*
+*[🇬🇧 English](../docs/for-retailers.md) | [🇳🇴 Norsk](../docs-nb/for-forhandlere.md) | 🇩🇪 Deutsch | [🇵🇱 Polski](../docs-pl/dla-sprzedawcow.md) | [🇸🇰 Slovenčina](../docs-sk/pre-predajcov.md)*
 
 > Produktpass-Anforderungen im Griff — Von der Lieferkette bis ins Regal: Bereit für ESPR und darüber hinaus
 

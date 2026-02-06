@@ -1,6 +1,6 @@
 # Cyfrowy paszport produktu dla deweloperów i zespołów IT
 
-*[🇬🇧 English](../docs/for-developers.md) | [🇳🇴 Norsk](../docs-nb/for-utviklere.md) | [🇩🇪 Deutsch](../docs-de/fuer-entwickler.md) | 🇵🇱 Polski*
+*[🇬🇧 English](../docs/for-developers.md) | [🇳🇴 Norsk](../docs-nb/for-utviklere.md) | [🇩🇪 Deutsch](../docs-de/fuer-entwickler.md) | 🇵🇱 Polski | [🇸🇰 Slovenčina](../docs-sk/pre-vyvojarov.md)*
 
 > Napędzanie cyfrowych paszportów produktów skalowalną, przyszłościową technologią
 

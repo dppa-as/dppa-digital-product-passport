@@ -1,6 +1,6 @@
 # Cyfrowy paszport produktu dla tekstyliów
 
-*[🇬🇧 English](../../docs/academy/dpp-textile.md) | [🇳🇴 Norsk](../../docs-nb/akademi/dpp-tekstil.md) | [🇩🇪 Deutsch](../../docs-de/akademie/dpp-textilien.md) | 🇵🇱 Polski*
+*[🇬🇧 English](../../docs/academy/dpp-textile.md) | [🇳🇴 Norsk](../../docs-nb/akademi/dpp-tekstil.md) | [🇩🇪 Deutsch](../../docs-de/akademie/dpp-textilien.md) | 🇵🇱 Polski | [🇸🇰 Slovenčina](../../docs-sk/akademia/dpp-textil.md)*
 
 > UE ESPR — Wymogi DPP dla tekstyliów przewidywane jako obowiązkowe od około 2027–2028
 

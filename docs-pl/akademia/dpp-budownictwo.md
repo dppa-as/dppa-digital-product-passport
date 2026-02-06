@@ -1,6 +1,6 @@
 # Cyfrowy paszport produktu dla wyrobów budowlanych
 
-*[🇬🇧 English](../../docs/academy/dpp-construction.md) | [🇳🇴 Norsk](../../docs-nb/akademi/dpp-byggevarer.md) | [🇩🇪 Deutsch](../../docs-de/akademie/dpp-bauprodukte.md) | 🇵🇱 Polski*
+*[🇬🇧 English](../../docs/academy/dpp-construction.md) | [🇳🇴 Norsk](../../docs-nb/akademi/dpp-byggevarer.md) | [🇩🇪 Deutsch](../../docs-de/akademie/dpp-bauprodukte.md) | 🇵🇱 Polski | [🇸🇰 Slovenčina](../../docs-sk/akademia/dpp-stavebnictvo.md)*
 
 > Rozporządzenie UE w sprawie wyrobów budowlanych — Deklaracje GWP wymagane od stycznia 2026, infrastruktura DPP oczekiwana od 2027
 

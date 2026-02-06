@@ -1,6 +1,6 @@
 # Cyfrowy paszport produktu dla specjalistów ds. zgodności
 
-*[🇬🇧 English](../docs/for-compliance.md) | [🇳🇴 Norsk](../docs-nb/for-etterlevelse.md) | [🇩🇪 Deutsch](../docs-de/fuer-compliance.md) | 🇵🇱 Polski*
+*[🇬🇧 English](../docs/for-compliance.md) | [🇳🇴 Norsk](../docs-nb/for-etterlevelse.md) | [🇩🇪 Deutsch](../docs-de/fuer-compliance.md) | 🇵🇱 Polski | [🇸🇰 Slovenčina](../docs-sk/pre-compliance.md)*
 
 > Zgodność z DPP jasna, zarządzalna i niezawodna — Bądź pewnie i efektywnie o krok przed przepisami UE i EOG
 

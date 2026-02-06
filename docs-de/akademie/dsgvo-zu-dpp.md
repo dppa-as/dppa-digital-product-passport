@@ -1,6 +1,6 @@
 # Von der DSGVO zum DPP: Was uns der letzte Compliance-Sprint gelehrt hat
 
-*[🇬🇧 English](../../docs/academy/gdpr-to-dpp.md) | [🇳🇴 Norsk](../../docs-nb/akademi/gdpr-til-dpp.md) | 🇩🇪 Deutsch | [🇵🇱 Polski](../../docs-pl/akademia/rodo-do-dpp.md)*
+*[🇬🇧 English](../../docs/academy/gdpr-to-dpp.md) | [🇳🇴 Norsk](../../docs-nb/akademi/gdpr-til-dpp.md) | 🇩🇪 Deutsch | [🇵🇱 Polski](../../docs-pl/akademia/rodo-do-dpp.md) | [🇸🇰 Slovenčina](../../docs-sk/akademia/gdpr-k-dpp.md)*
 
 > Der Digitale Produktpass wird verändern, wie Unternehmen mit Produkten umgehen — und das Muster wirkt erstaunlich vertraut.
 

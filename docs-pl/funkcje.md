@@ -1,6 +1,6 @@
 # Przegląd funkcji — Platforma DPPA cyfrowego paszportu produktu
 
-*[🇬🇧 English](../docs/features.md) | [🇳🇴 Norsk](../docs-nb/funksjoner.md) | [🇩🇪 Deutsch](../docs-de/funktionen.md) | 🇵🇱 Polski*
+*[🇬🇧 English](../docs/features.md) | [🇳🇴 Norsk](../docs-nb/funksjoner.md) | [🇩🇪 Deutsch](../docs-de/funktionen.md) | 🇵🇱 Polski | [🇸🇰 Slovenčina](../docs-sk/funkcie.md)*
 
 > Zbudowane na dziś. Gotowe na jutro.
 

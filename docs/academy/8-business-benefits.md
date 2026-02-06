@@ -1,6 +1,6 @@
 # Digital Product Passport: 8 Business Benefits Beyond Regulatory Compliance
 
-*🇬🇧 English | [🇳🇴 Norsk](../../docs-nb/akademi/8-forretningsfordeler.md) | [🇩🇪 Deutsch](../../docs-de/akademie/8-geschaeftsvorteile.md) | [🇵🇱 Polski](../../docs-pl/akademia/8-korzysci-biznesowych.md)*
+*🇬🇧 English | [🇳🇴 Norsk](../../docs-nb/akademi/8-forretningsfordeler.md) | [🇩🇪 Deutsch](../../docs-de/akademie/8-geschaeftsvorteile.md) | [🇵🇱 Polski](../../docs-pl/akademia/8-korzysci-biznesowych.md) | [🇸🇰 Slovenčina](../../docs-sk/akademia/8-obchodnych-vyhod.md)*
 
 > DPP isn't just about checking a box — it's infrastructure that can transform your business.
 
